@@ -20,7 +20,7 @@ export const Message = () => {
     }, [])
 
     return (
-        <div>
+        <div> 
             <h3>Eres genial</h3>
             <p>
                 x: { x } y: { y }
